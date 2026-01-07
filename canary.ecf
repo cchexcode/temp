@@ -1,0 +1,54 @@
+--- BEGIN ECF STATEMENT ---
+
+PERSONAL CANARY STATEMENT
+January 5, 2026
+
+I, Alexander Weber, hereby declare:
+
+• I am making this statement of my own free will
+• I have NOT been detained, arrested, or placed under duress
+• I have NOT been compelled to provide access to my accounts, devices, or communications
+• I have NOT received any secret legal orders
+• I am NOT under any gag order preventing me from speaking freely
+
+— Alexander Weber
+
+--- END ECF STATEMENT ---
+
+--- BEGIN ECF METADATA (JSON) ---
+
+{
+  "version": "1.0-rc.1",
+  "issuer": "Alexander Weber",
+  "issued_at": "2026-01-06T04:12:42.606Z",
+  "expires_at": "2026-04-01T23:59:59.000Z",
+  "signers": [
+    {
+      "fingerprint": "1E1BAC706C352094D490D5393F5167F1F3002043",
+      "required": true
+    },
+    {
+      "fingerprint": "04BD5060B5411662CAB5D9AAD968F11CCDF6D908",
+      "required": true
+    }
+  ],
+  "contact": {
+    "email": [
+      "alexanderh.weber@outlook.com"
+    ]
+  },
+  "references": []
+}
+
+--- END ECF METADATA (JSON) ---
+
+--- BEGIN ECF PROOF OF RECENCY ---
+
+Generated: 2026-01-06 04:11:20 UTC
+
+Bitcoin blockchain anchors:
+Block #931094: 000000000000000000009358f6bce24f4d3eb5016288a634767cd72757ec3487 (2026-01-06 04:10:43 UTC)
+Block #931093: 000000000000000000019088a07527ebaf0f0d32cf9939add5feaf0a6757d1e6 (2026-01-06 03:59:15 UTC)
+Block #931092: 0000000000000000000118cca02f9c896ff4ac7d401f284d8611047bf1f387be (2026-01-06 03:27:30 UTC)
+
+--- END ECF PROOF OF RECENCY ---
